@@ -8,7 +8,7 @@ For this assignment, I was given an HTML document and a CSS document for a funct
 
 2. How to add effective comments to a CSS files
 
-3. Version control - git commands (git add, git commit, and git push)
+3. Version control - git commands
 ```bash
 git add .
 git commit -m "message goes here"
