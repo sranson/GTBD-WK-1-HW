@@ -15,3 +15,7 @@ git commit -m "message goes here"
 git push
 ```
 4. How to deploy a website using Git pages
+
+##Example
+
+![Homework Demo](./Assets/images/HW-Image.png)
