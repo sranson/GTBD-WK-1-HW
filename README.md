@@ -16,6 +16,6 @@ git push
 ```
 4. How to deploy a website using Git pages
 
-##Example
+## Example
 
-![Homework Demo](./Assets/images/HW-Image.png)
+![Homework Demo](/Assets/images/HW-Image.png)
