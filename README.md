@@ -18,4 +18,4 @@ git push
 
 ## Example
 
-![Homework Demo](/Assets/images/HW-Image.png)
+![Homework Demo](/Assets/HW-Image.png)
