@@ -16,7 +16,7 @@ git push
 ```
 4. How to deploy a website using Git pages
 
-5. How to take a screenshot of a website that expands pass the window's view
+5. How to take a screenshot of a website that expands pass the window's view using google chrome extension "Awesome screenshot and capture"
 
 ## Here is an example of the completed homework assignment
 
